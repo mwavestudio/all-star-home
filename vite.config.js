@@ -7,4 +7,4 @@ export default defineConfig({
   plugins: [react()],
   base: "/all-star-home"
 })
-tailwindcss()
+tailwindcss(),
